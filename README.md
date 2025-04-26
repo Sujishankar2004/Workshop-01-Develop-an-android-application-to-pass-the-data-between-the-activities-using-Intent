@@ -1,8 +1,8 @@
 [[# Workshop-01-Develop-an-android-application-to-pass-the-data-between-the-activities-using-Intent.
 
 ```
-Name: JEVAN A
-Reg no: 212222040063
+Name: SUJI S
+Reg no: 212222040164
 ```
 
 ## AIM:
@@ -27,8 +27,8 @@ Step 6: Get contacts details and Display details give in MainActivity file.
 Step 7: Save and run the application.
 ## PROGRAM:
 ```
-Developed by: JEVAN A
-Registeration Number : 212222040063
+Developed by: SUJI S
+Registeration Number : 212222040164
 ```
 MainActivity.java:
 ```
